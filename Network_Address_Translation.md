@@ -1,4 +1,4 @@
-Nating (Nat- Network Address Translation)
+# Nating (Nat- Network Address Translation)
 
 Nat - short for network addressing. 
 
