@@ -46,25 +46,25 @@ Used in Data Analytics and Business Intelligence
 Also useful in IoT
 
 
-Relationship Types
+### Relationship Types
 
 One to One
 Each row in A is linked to no more than one row in Table B Attribute of the relationship, not the tables. E.g. A student may have one row in the contact_info table
 
-One to Many
+#### One to Many
 
 Each row in the table can be related to many rows in the relating table
 Allows frequently used information o eb saved once in a table and referenced many times in other tables. An employee might have several tasks to do, for example.
 
-Many to Many
+#### Many to Many
 
 Oner or more rows in a table can be related to 0,1, or many rows in another table
 
 A 3rd table called a mapping or link table is needed in order to implement this relationship. A customer could purchase many products for example.
 
-Primary Key
+#### Primary Key
 
-Used ot uniquely identify each record in the table
+Used to uniquely identify each record in the table
 
 Most tables should have one. Each table can have more than one column which is part of its primary key (known as a composite key). Examples include order numbers or order line numbers.
 
